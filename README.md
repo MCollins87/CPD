@@ -8,9 +8,8 @@ Here you will find details of all CPD activities. Where posible, I have attempte
 
 [^1]: Borton, T. (1970) *Reach, Teach, and Touch.* London: McGraw Hill.
 
-## 2024
 <details>
-<summary>CPD Activities in 2024</summary>
+<summary><h2>2024</h2></summary>
 
 ### Management Essentials | Portsmouth Hospitals University NHS Trust | January 2024 - June 2024
 This multi-module training, provided by Portsmouth Hospitals University NHS Trust is designed to provide all managers and leaders within the organisation the skills and knowledge required to be effective managers and leaders. 
