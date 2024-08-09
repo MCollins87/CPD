@@ -15,7 +15,7 @@ Here you will find details of all CPD activities. Where posible, I have attempte
 ### Management Essentials | Portsmouth Hospitals University NHS Trust | January 2024 - June 2024
 This multi-module training, provided by Portsmouth Hospitals University NHS Trust is designed to provide all managers and leaders within the organisation the skills and knowledge required to be effective managers and leaders. 
 
-Due to the multi-module format, please see here for full details of modules and learning outcomes.
+Due to the multi-module format, please see [here](ME) for full details of modules and learning outcomes.
 
 ### Maximising the Potential of Data - Webinar | IPEM | 11th March 2024
 - Webinar provided by the Institute of Physics and Engineering in Medicine on **"Maximising the Potential of Data"**. 
