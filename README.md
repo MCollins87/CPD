@@ -1,10 +1,10 @@
 # CPD Overview
 
 ## Activity Types
-FT: Formal Training
-WB: Work-based Training
-PA: Professional Activity
-SD: Self-Directed Training
+* FT: Formal Training
+* WB: Work-based Training
+* PA: Professional Activity
+* SD: Self-Directed Training
 
 ## Standards to meet
 - maintain a continuous, up-to-date and accurate record of their CPD activities;
