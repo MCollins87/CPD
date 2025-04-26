@@ -1,44 +1,36 @@
-# Continuing Professional Development
+# CPD Overview
 
-Here you will find details of all CPD activities. Where posible, I have attempted to follow a reflective model based on Borton's (1970)[^1] apporach of:
+## Activity Types
+FT: Formal Training
+WB: Work-based Training
+PA: Professional Activity
+SD: Self-Directed Training
 
-* **What?** 
-* **So what?**
-* **Now what?**
+## Standards to meet
+- maintain a continuous, up-to-date and accurate record of their CPD activities;
+- demonstrate that their CPD activities are a mixture of learning activities relevant to current or future practise;
+- seek to ensure that their CPD has contributed to the quality of their practise and service delivery;
+- seek to ensure that their CPD benefits the service user; and
+- upon request, present a written profile (which must be their own work and supported by evidence) explaining how they have met the standards for CPD.
 
-[^1]: Borton, T. (1970) *Reach, Teach, and Touch.* London: McGraw Hill.
 
-<details>
-  <Summary><h2>2023</h2></Summary>
 
-### Aria Paperless training | Varian Medical Systems | 20th February - 24th February 2023
-- Assiting delivering training to staff on how to use the new paperless system.
+## Activity Summary 2024-2025
 
-### Aria training | Training delivered | Various dates
-- Ad-hoc, 1:1 training of Dr's and other staff on how ti use Aria and Encounters. 
-  
-</details>
-
-<details>
-<summary><h2>2024</h2></summary>
-
-### Management Essentials | Portsmouth Hospitals University NHS Trust | January 2024 - June 2024
-This multi-module training, provided by Portsmouth Hospitals University NHS Trust is designed to provide all managers and leaders within the organisation the skills and knowledge required to be effective managers and leaders. 
-
-Due to the multi-module format, please see [here](ME) for full details of modules and learning outcomes.
-
-### Maximising the Potential of Data - Webinar | IPEM | 11th March 2024
-- Webinar provided by the Institute of Physics and Engineering in Medicine on **"Maximising the Potential of Data"**. 
-- Provided insights into how to manage and process data, particuarly large datasets.
-- Webinar is publicly available on [youtube](https://youtu.be/JweoSPfNcNM?si=E6_M8uj2mKKtxx4r)
-- Attending this course has changed the way I look at large datasets and aproach manipulating, pivoting and combining datasets.
-
-### Oliver McGowan training | Portsmouth Hospitals University NHS Trust | 9th May 2024
-- Face to face training (via MS Teams) on the Oliver McGowan scheme.
-- This training aims to provide knowledge and insight to healthcare professionals about Autism and Neurodiversity, following the failings in care to patient Oliver McGowan - a sevierly Autistic young person, who's medical symptoms were missed and dismissed, and Autistic symptoms were treated as "being dificuilt". 
-- It is extremely important for healthcare professionals to recognise hidden disabilities such as learning dificuilties and neurodiversity. Recognising when somneone is being "dificult" or is struggling with underlying issues is vital in every setting, not just healthcare.
-- By being able to identify these differences, it will allow me to treat someone with patients and understanding.
-
-  
-</details>
+| Date | Activity | Type | Duration |
+| --- | --- | --- | --- |
+| 16 April 2024 - Ongoing | [MSc Enterprise  IT Management](./24-25/2024-04-16_MSc.md) | FT | 540h |
+| 25th January 2024 - 24th June 2024 | [Management Essentials](./24-25/2024-05-23_ME.md) | FT | 45h |
+| 23rd May 2024 | [Elective Care. Referral to Treatment](./24-25/2024-05-23_RTT.md) | SD | 1h |
+| 30th June 2024 | [RTDS upgrade](./24-25/2024-06-30_RTDS.md) | PA | 10h |
+| 18th July 2024 | [Becoming and Information Asset Owner](./24-25/2024-07-18_BecomeIAO.md) | SD | 1h | 
+| 31st July 2024 - 1st August 2024 | [Q-Pulse Configuration](./24-25/2024-07-31_QpulseConfig.md) | PA | 14h | 
+| 4th September 2024 | [Essentials of Digital Clinical Safety](./24-25/2024-09-04_EDCS.md) | SD | 1h |
+| 5th Semptember 2024 | [Digital Clinical Safety. Intermediate](./24-25/2024-09-05_DCS_I.md) | SD | 4h |
+| 11th September 2024 | [Q-Pulse Training from Ideagen](./24-25/2024-09-11_QpulseTrain.md) | WB | 8h | 
+| 18th November 2024 | [Varian Digital Oncology Presentations](./24-25/2024-11-18_DigOnc.md) | PA | 2h |
+| 10 December 2024 | [Breaking Boundaries in Radiotherapy. Varian Webinar](./24-25/2024-12-10_VarianWeb.md)| FT | 1h |
+| 8th January 2024 | [SACT Capacity and Demand Engagement Meeting](./24-25/2025-01-08_SACT.md) | PA | 4h |
+| 22nd Januray 2025 | [Initial Q-Pulse Training for all Staff](./24-25/2025-01-22_QPulse.md) | PA | 1h |
+| 25th March 2025 | [Clinical Safety Officer Training](./24-25/2025-03-25_CSO.md) | FT | 6h |
 
